@@ -23,7 +23,7 @@ void draw(){
   //invocacion:
   println( frameCount + ": " + x ) ;
   textSize(40);
-  text( "Dante", x,200 );
+  text( "Dante", x, 200 );
  
   x = x+2; 
   if( x>=200 ) {
