@@ -32,5 +32,5 @@ void draw(){
 }
 
 void mousePressed(){
-    x = -100; //17.23 
+    x = -100; //un valor inicial negativo (para que se dibuje fuera de la ventana)
 }
